@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes>
+
+    <entry>
+
+        <title>Note 1</title>
+        <description>You're awesome!</description>
+        <date>Mon 09 Aug</date>
+    </entry>
+
+    <entry>
+
+        <title>Note 2</title>
+        <description>Remember to do 60 sit-ups on Monday!</description>
+        <date>Fri 05 Aug</date>
+    </entry>
+
+    <entry>
+
+        <title>Note 3</title>
+        <description>Remember to at least drink 8 cups of water to stay hydrated!!</description>
+        <date>Wed 11 Aug</date>
+    </entry>
+
+    <entry>
+
+        <title>Note 4</title>
+        <description>Stay Positive!</description>
+        <date>Thu 12 Aug</date>
+    </entry>
+
+    <entry>
+
+        <title>Note 5</title>
+        <description>Hi!</description>
+        <date>Fri 13 Aug</date>
+    </entry>
+
+
+</notes>

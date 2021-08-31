@@ -1,0 +1,72 @@
+{
+  "grids" : [
+    {
+      "physical_activities": [
+        {
+          "name": "Walking",
+          "value": 50,
+          "metrics": "steps",
+          "duration": 10,
+          "image" : "physical_activity_placeholder",
+          "icon" : "ic_hiking_black_24dp"
+        },
+        {
+          "name": "Cycling",
+          "value": 10,
+          "metrics": "km",
+          "duration": 50,
+          "image" : "cycling_placeholder",
+          "icon" : "ic_directions_bike_black_24dp"
+        },
+        {
+          "name": "Running",
+          "value": 5,
+          "metrics": "km",
+          "duration": 90,
+          "image" : "running_placeholder",
+          "icon" : "ic_directions_run_black_24dp"
+        }
+      ]
+    },
+    {
+      "water_intake": [
+        {
+          "name": "today",
+          "value": 2,
+          "metrics": "glasses"
+        },
+        {
+          "name": "in a month",
+          "value": 10,
+          "metrics": "glasses"
+        },
+        {
+          "name": "in a year",
+          "value": 12,
+          "metrics": "glasses"
+        }
+      ]
+
+    },
+    {
+      "vital_stats": [
+        {
+          "name": "Heart Rate",
+          "value": 90,
+          "metrics": "bpm",
+          "icon" : "ic_favorite_border_black_24dp"
+        },
+        {
+          "name": "Sleep",
+          "value": 5,
+          "metrics": "hours",
+          "icon" : "ic_mode_night_black_24dp"
+        }
+      ]
+
+    }
+
+  ]
+
+
+}
